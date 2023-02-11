@@ -1,0 +1,15 @@
+C:\Users\ICM Bela Vista\OneDrive\atividades\exercico_8\bin\Debug\net7.0\exercico_8.exe
+C:\Users\ICM Bela Vista\OneDrive\atividades\exercico_8\bin\Debug\net7.0\exercico_8.deps.json
+C:\Users\ICM Bela Vista\OneDrive\atividades\exercico_8\bin\Debug\net7.0\exercico_8.runtimeconfig.json
+C:\Users\ICM Bela Vista\OneDrive\atividades\exercico_8\bin\Debug\net7.0\exercico_8.dll
+C:\Users\ICM Bela Vista\OneDrive\atividades\exercico_8\bin\Debug\net7.0\exercico_8.pdb
+C:\Users\ICM Bela Vista\OneDrive\atividades\exercico_8\obj\Debug\net7.0\exercico_8.csproj.AssemblyReference.cache
+C:\Users\ICM Bela Vista\OneDrive\atividades\exercico_8\obj\Debug\net7.0\exercico_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICM Bela Vista\OneDrive\atividades\exercico_8\obj\Debug\net7.0\exercico_8.AssemblyInfoInputs.cache
+C:\Users\ICM Bela Vista\OneDrive\atividades\exercico_8\obj\Debug\net7.0\exercico_8.AssemblyInfo.cs
+C:\Users\ICM Bela Vista\OneDrive\atividades\exercico_8\obj\Debug\net7.0\exercico_8.csproj.CoreCompileInputs.cache
+C:\Users\ICM Bela Vista\OneDrive\atividades\exercico_8\obj\Debug\net7.0\exercico_8.dll
+C:\Users\ICM Bela Vista\OneDrive\atividades\exercico_8\obj\Debug\net7.0\refint\exercico_8.dll
+C:\Users\ICM Bela Vista\OneDrive\atividades\exercico_8\obj\Debug\net7.0\exercico_8.pdb
+C:\Users\ICM Bela Vista\OneDrive\atividades\exercico_8\obj\Debug\net7.0\exercico_8.genruntimeconfig.cache
+C:\Users\ICM Bela Vista\OneDrive\atividades\exercico_8\obj\Debug\net7.0\ref\exercico_8.dll
